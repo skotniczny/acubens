@@ -1,0 +1,12 @@
+{
+  "name": "Acubens",
+  "version": "1.0.0",
+  "description": "Single page website template",
+  "author": "Łukasz Skotniczny",
+  "devDependencies": {
+    "browser-sync": "^2.12.3",
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}

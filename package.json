@@ -2,7 +2,12 @@
   "name": "Acubens",
   "version": "1.0.0",
   "description": "Single page website template",
+  "homepage": "http://skotisz.linuxpl.info/acubens/",
   "author": "Łukasz Skotniczny",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skotniczny/acubens.git"
+  },
   "devDependencies": {
     "browser-sync": "^2.12.3",
     "gulp": "^3.9.1",
